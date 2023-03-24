@@ -1,0 +1,2 @@
+This is some other random text for a new file.
+This is some other random text for a new file at the end.
